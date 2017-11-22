@@ -1,0 +1,25 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Monokai Dark Soda",
+    "workbench.iconTheme": "material-icon-theme",
+    "codemetrics.basics.ComplexityLevelExtremeDescription": "Oh bloody hell...",
+    "editor.minimap.enabled": false,
+    "gitlens.blame.line.annotationType": "hover",
+    "terminal.integrated.scrollback": 2000,
+    "codemetrics.basics.DecorationModeEnabled": false,
+    "sync.gist": "67492f74894b5a2563afb2140921b975",
+    "sync.lastUpload": "2017-11-22T10:50:50.952Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "workbench.panel.location": "bottom"
+}
