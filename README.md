@@ -1,5 +1,6 @@
 # Settings
 different settings scripts for faster setup of new dev environment 
+
 remember to download Fira Code font (https://github.com/tonsky/FiraCode)
 
 ## Gist
