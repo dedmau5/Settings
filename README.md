@@ -11,6 +11,11 @@ https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 ![alt text](https://media.giphy.com/media/xT9IglKxSqs2Wdwq2c/source.gif)
 
+shift+alt+d to download the settings
+enter the token
+enter the gist id
+wait for install to finish :)
+
 ## known issues
 Settings sync sometimes needs a newly generated token. Follow these steps:
 
