@@ -1,8 +1,5 @@
 # Settings
-Different settings scripts for faster setup of new dev environment 
-
-Download Fira Code font ()
-
+Different settings scripts and instructions for faster setup of new dev environment or reinstalled computer etc. 
 
 ## Download list
 - Set Point
