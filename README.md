@@ -1,13 +1,31 @@
 # Settings
 Different settings scripts for faster setup of new dev environment 
 
-Download Fira Code font (https://github.com/tonsky/FiraCode)
+Download Fira Code font ()
+
+
+## Download list
+- Set Point
+- Audio Quest DragonFly Drivers
+- Spotify
+- VSCode
+  - SettingsSync (https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+  - Fira Code font (https://github.com/tonsky/FiraCode)
+- Sublime Text
+- Slack
+- MS Teams
+- Greenshot
+- Display Fusion
+- GIT
+- Python
+- Nodejs
+- Posh-Git (https://github.com/dahlbyk/posh-git)
+
 
 ## Gist
 https://gist.github.com/dedmau5/67492f74894b5a2563afb2140921b975
 
 ## tutorial for vscode settings sync
-https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 ![alt text](https://media.giphy.com/media/xT9IglKxSqs2Wdwq2c/source.gif)
 
@@ -36,20 +54,3 @@ Finally, you have both values, Gist ID and Token. Now, you should fill correctly
 
 Hope the previous steps can help you. it works for me. :)"
 
-
-## Download list
-- Set Point
-- Audio Quest DragonFly Drivers
-- Spotify
-- VSCode
-  - SettingsSync
-  - Fira Code font
-- Sublime Text
-- Slack
-- MS Teams
-- Greenshot
-- Display Fusion
-- GIT
-- Python
-- Nodejs
-- Posh-Git 
