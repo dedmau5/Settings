@@ -1,7 +1,7 @@
 # Settings
-different settings scripts for faster setup of new dev environment 
+Different settings scripts for faster setup of new dev environment 
 
-remember to download Fira Code font (https://github.com/tonsky/FiraCode)
+Download Fira Code font (https://github.com/tonsky/FiraCode)
 
 ## Gist
 https://gist.github.com/dedmau5/67492f74894b5a2563afb2140921b975
@@ -11,10 +11,10 @@ https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 ![alt text](https://media.giphy.com/media/xT9IglKxSqs2Wdwq2c/source.gif)
 
-shift+alt+d to download the settings
-enter the token
-enter the gist id
-wait for install to finish :)
+- shift+alt+d to download the settings
+- enter the token
+- enter the gist id
+- wait for install to finish :)
 
 ## known issues
 Settings sync sometimes needs a newly generated token. Follow these steps:
@@ -36,3 +36,20 @@ Finally, you have both values, Gist ID and Token. Now, you should fill correctly
 
 Hope the previous steps can help you. it works for me. :)"
 
+
+## Download list
+- Set Point
+- Audio Quest DragonFly Drivers
+- Spotify
+- VSCode
+  - SettingsSync
+  - Fira Code font
+- Sublime Text
+- Slack
+- MS Teams
+- Greenshot
+- Display Fusion
+- GIT
+- Python
+- Nodejs
+- Posh-Git 
