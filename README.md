@@ -22,7 +22,7 @@ Different settings scripts and instructions for faster setup of new dev environm
 ## Gist
 https://gist.github.com/dedmau5/67492f74894b5a2563afb2140921b975
 
-## tutorial for vscode settings sync
+## Tutorial for vscode settings sync
 
 ![alt text](https://media.giphy.com/media/xT9IglKxSqs2Wdwq2c/source.gif)
 
@@ -31,7 +31,7 @@ https://gist.github.com/dedmau5/67492f74894b5a2563afb2140921b975
 - enter the gist id
 - wait for install to finish :)
 
-## known issues
+### Known issues
 Settings sync sometimes needs a newly generated token. Follow these steps:
 
 "Hi Guys,
