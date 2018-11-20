@@ -2,7 +2,6 @@
     "name": "Joar Ekendahl",
     "version": "37",
     "description": {
-        "current_job": "QA Lead @ if...",
         "field": "SDET",
         "work_passion": "devops mindset",
         "sport": "e-sport",
@@ -31,6 +30,7 @@
         "concultancy": "",
         "blame": "u/johan.bark"
     },
+    "current_work": "QA Lead @ if...",
     "previous work": {
         "position": "Addq(Prolore) - Skatteverket",
         "position1": "Thomas Cook",
@@ -45,6 +45,7 @@
         "tech4": "c#",
         "tech5": "selenium",
         "tech6": "browserstack",
-        "tech7": "etc etc etc buzzwords"
+        "tech7": "jenkins",
+        "tech8": "etc etc etc buzzwords"
     }
 }
