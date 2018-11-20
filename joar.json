@@ -5,7 +5,6 @@
         "field": "SDET",
         "work_passion": "devops mindset",
         "sport": "e-sport",
-        "pets": "ett gosedjursmarsvin och ett gäng digitala pets i Diablo 3",
         "gaming": {
             "pc": "Diablo 3, Fallout 4, Dota 2 ...",
             "ps4": "Horizon, Red Dead Redemption 2, Rocket league ..."
@@ -14,6 +13,8 @@
     "author": "Joar Ekendahl",
     "owner": "Charlotte",
     "license": "sambo",
+    "spawn_count": "0",
+    "pets": "ett gosedjursmarsvin och ett gäng digitala pets i Diablo 3",
     "repository": {
         "location": "Solna",
         "type": "för liten lägenhet (3:a)",
