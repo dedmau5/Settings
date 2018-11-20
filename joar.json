@@ -6,21 +6,35 @@
         "field": "SDET",
         "work_passion": "devops mindset",
         "sport": "e-sport",
+        "pets": "ett gosedjursmarsvin och ett gäng digitala pets i Diablo 3",
+        "gaming": {
+            "pc": "Diablo 3, Fallout 4, Dota 2 ...",
+            "ps4": "Horizon, Red Dead Redemption 2, Rocket league ..."
+        }
     },
     "author": "Joar Ekendahl",
     "owner": "Charlotte",
     "license": "sambo",
     "repository": {
         "location": "Solna",
-        "type": "för liten lägenhet",
-        "url": "https://github.com/dedmau5/"
+        "type": "för liten lägenhet (3:a)",
+        "github": "https://github.com/dedmau5/",
+        "summer house": "tyvärr inte än. vi letar dock!"
     },
     "dependencies": {
         "colleagues": "trevligt folk => trevlig miljö",
-        "fun": "man måste ha kul på jobbet, så man trivs",
+        "fun": "jag trivs när jag har roligt på jobbet och kan skratta mycket. hälften av jobbet sker vid 'snack i korridoren' och 'by the water cooler'",
+        "music": "allätare, men elektroniskt är nice, men så även metal"
     },
     "squeed": {
-        "member": "1jan2018",
-        "": ""
+        "member": "01-jan-2018",
+        "concultancy": "",
+        "blame": "u/johan.bark"
+    },
+    "previous work": {
+        "position": "Addq(Prolore) - Skatteverket",
+        "position1": "Thomas Cook",
+        "position2": "redmind - Thomas Cook",
+        "position3": "SWAF LG/K1"
     }
 }
