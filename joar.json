@@ -1,0 +1,26 @@
+{
+    "name": "Joar Ekendahl",
+    "version": "37",
+    "description": {
+        "current_job": "QA Lead @ if...",
+        "field": "SDET",
+        "work_passion": "devops mindset",
+        "sport": "e-sport",
+    },
+    "author": "Joar Ekendahl",
+    "owner": "Charlotte",
+    "license": "sambo",
+    "repository": {
+        "location": "Solna",
+        "type": "för liten lägenhet",
+        "url": "https://github.com/dedmau5/"
+    },
+    "dependencies": {
+        "colleagues": "trevligt folk => trevlig miljö",
+        "fun": "man måste ha kul på jobbet, så man trivs",
+    },
+    "squeed": {
+        "member": "1jan2018",
+        "": ""
+    }
+}
