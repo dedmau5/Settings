@@ -7,10 +7,19 @@
         "sport": "e-sport",
         "gaming": {
             "pc": "Diablo 3, Fallout 4, Dota 2 ...",
-            "ps4": "Horizon, Red Dead Redemption 2, Rocket league ..."
+            "ps4": "Horizon, Red Dead Redemption 2, Rocket league ...",
+            "steam": "http://steamcommunity.com/id/ionkjell",
+            "blizzard": "dedmau5#1177",
+            "psn": "serg_echo"
+        },
+        "social_networks": {
+            "twitter": "@dedmau5",
+            "instagram": "@dedmau5",
+            "home_page": "https://about.me/dedmau5",
+            "facebook": "https://www.facebook.com/joar.ekendahl",
+            "linkedin": "https://www.linkedin.com/in/joarekendahl/"
         }
     },
-    "author": "Joar Ekendahl",
     "owner": "Charlotte",
     "license": "sambo",
     "spawn_count": "0",
@@ -19,7 +28,7 @@
         "location": "Solna",
         "type": "för liten lägenhet (3:a)",
         "github": "https://github.com/dedmau5/",
-        "summer house": "tyvärr inte än. vi letar dock!"
+        "summer_house": "tyvärr inte än. vi letar dock!"
     },
     "dependencies": {
         "colleagues": "trevligt folk => trevlig miljö",
@@ -32,7 +41,7 @@
         "blame": "u/johan.bark"
     },
     "current_work": "QA Lead @ if...",
-    "previous work": {
+    "previous_work": {
         "position": "Addq(Prolore) - Skatteverket",
         "position1": "Thomas Cook",
         "position2": "redmind - Thomas Cook",
