@@ -36,5 +36,15 @@
         "position1": "Thomas Cook",
         "position2": "redmind - Thomas Cook",
         "position3": "SWAF LG/K1"
+    },
+    "techniques": {
+        "tech": "nodejs",
+        "tech1": "webdriver.io",
+        "tech2": "git",
+        "tech3": "Azure DevOps",
+        "tech4": "c#",
+        "tech5": "selenium",
+        "tech6": "browserstack",
+        "tech7": "etc etc etc buzzwords"
     }
 }
