@@ -1,6 +1,11 @@
 {
     "name": "Joar Ekendahl",
-    "version": "37",
+    "version": "38",
+    "owner": "Charlotte Wennerberg",
+    "license": "sambo",
+    "spawn_count": "0",
+    "sibling_count": "0",
+    "pet_count": "NaN - ett gosedjursmarsvin och ett gäng digitala pets i Diablo 3",
     "description": {
         "field": "SDET",
         "work_passion": "devops mindset",
@@ -15,25 +20,23 @@
         "social_networks": {
             "twitter": "@dedmau5",
             "instagram": "@dedmau5",
+            "github": "https://github.com/dedmau5/",
             "home_page": "https://about.me/dedmau5",
             "facebook": "https://www.facebook.com/joar.ekendahl",
             "linkedin": "https://www.linkedin.com/in/joarekendahl/"
         }
     },
-    "owner": "Charlotte",
-    "license": "sambo",
-    "spawn_count": "0",
-    "pets": "ett gosedjursmarsvin och ett gäng digitala pets i Diablo 3",
     "repository": {
-        "location": "Solna",
+        "location": "Sweden/Stockholms_län/Solna/Västra_Skogen",
         "type": "för liten lägenhet (3:a)",
-        "github": "https://github.com/dedmau5/",
         "summer_house": "tyvärr inte än. vi letar dock!"
     },
     "dependencies": {
-        "colleagues": "trevligt folk => trevlig miljö",
+        "nature": "kan låta klyshigt, men att få gå i skogen med en hund och sin bättre hälft... #awesome",
+        "food": "en favvo är ju en god, mustig chili, eller en riktigt fin 'dagobertare', eller en fräsig kräftstjärtspasta...äter det mesta faktiskt, men helst inte kroppkakor eller 'slemmiga rätter'",
+        "colleagues": "trevligt folk ==> trevlig miljö",
         "fun": "jag trivs när jag har roligt på jobbet och kan skratta mycket. hälften av jobbet sker vid 'snack i korridoren' och 'by the water cooler'",
-        "music": "allätare, men elektroniskt är nice, men så även metal"
+        "music": "allätare, men elektroniskt är nice (vnv nation, estiva, juno reactor...), men så även metal (metallica, five finger death punch, airborne...) och dark country!"
     },
     "squeed": {
         "member": "01-jan-2018",
