@@ -1,4 +1,4 @@
-
+# Notepad $profile to open your profile file
 # Load posh-git example profile
 . 'C:\tools\poshgit\dahlbyk-posh-git-a4faccd\profile.example.ps1' choco
 #load ssh-.ps1
