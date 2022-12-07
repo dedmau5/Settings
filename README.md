@@ -16,6 +16,7 @@ Different settings scripts and instructions for faster setup of new dev environm
 - GIT
 - (Python)
 - Nodejs
+- choco
 - Posh-Git (https://github.com/dahlbyk/posh-git)
 - Discord
 
