@@ -3,20 +3,21 @@ Different settings scripts and instructions for faster setup of new dev environm
 
 ## Download list
 - Set Point
-- Audio Quest DragonFly Drivers
+- (Audio Quest DragonFly Drivers)
 - Spotify
 - VSCode
   - SettingsSync (https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
   - Fira Code font (https://github.com/tonsky/FiraCode)
 - Sublime Text
-- Slack
+- Slack (differend emails, ekendahl@ and joar@)
 - MS Teams
 - Greenshot
 - Display Fusion
 - GIT
-- Python
+- (Python)
 - Nodejs
 - Posh-Git (https://github.com/dahlbyk/posh-git)
+- Discord
 
 
 ## Gist
