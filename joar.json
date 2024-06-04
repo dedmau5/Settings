@@ -1,17 +1,18 @@
 {
     "name": "Joar Ekendahl",
-    "version": "38",
+    "version": "43",
     "owner": "Charlotte Wennerberg",
     "license": "sambo",
     "spawn_count": "0",
     "sibling_count": "0",
-    "pet_count": "NaN - ett gosedjursmarsvin och ett gäng digitala pets i Diablo 3",
+    "pet_count": "Två Ragdoll-katter (Fixxxer och Pannkakan) och ett gäng digitala pets i Diablo 3",
     "description": {
         "field": "SDET",
         "work_passion": "devops mindset",
+        "sport": "golf",
         "sport": "e-sport",
         "gaming": {
-            "pc": "Diablo 3, Fallout 4, Dota 2 ...",
+            "pc": "Diablo 3, Valheim, Diablo 4, Fallout 4",
             "ps4": "Horizon, Red Dead Redemption 2, Rocket league ...",
             "steam": "http://steamcommunity.com/id/ionkjell",
             "blizzard": "dedmau5#1177",
@@ -27,9 +28,9 @@
         }
     },
     "repository": {
-        "location": "Sweden/Stockholms_län/Solna/Västra_Skogen",
+        "location": "Sweden/Stockholms_län/Solna/Rudviken",
         "type": "för liten lägenhet (3:a)",
-        "summer_house": "tyvärr inte än. vi letar dock!"
+        "summer_house": "Lungsund, Värmland"
     },
     "dependencies": {
         "nature": "kan låta klyshigt, men att få gå i skogen med en hund och sin bättre hälft... mental recharge #awesome",
@@ -40,27 +41,35 @@
         "g33k_factor": "älskar Star Wars. kan diskutera khyber-crystals och huruvida det var rätt eller fel av disney att radera halva universat från kanon i timmar.",
         "music": "allätare, men elektroniskt är nice (vnv nation, estiva, juno reactor...), men så även metal (metallica, five finger death punch, airborne...) och dark country!"
     },
-    "squeed": {
-        "member": "01-jan-2019",
-        "concultancy": "",
-        "blame": "johan.bark@squeed.com"
+    "visionite": {
+        "member": "16-mars-2024",
+        "concultancy": "Atlas Copco",
+        "blame": "$self"
     },
-    "work_current": "QA Lead - if...",
-    "work_previous": {
+    "work_current": "QA - Atlas Copco",
+    "work_previous": { 
+        "position": "Squeed - Fortum/hiven",
+        "position": "Squeed - Hallon",
+        "position": "Squeed - UC",
+        "position": "Squeed - NetEnt",
+        "position": "Squeed - JCDecaux",
         "position": "Addq(Prolore) - Skatteverket",
-        "position1": "Thomas Cook",
-        "position2": "redmind - Thomas Cook",
-        "position3": "FM - Livgardet/K1(MP)"
+        "position1": "Thomas Cook / Ving",
+        "position2": "redmind - Thomas Cook / Ving",
+        "position3": "Försvarsmakten - Livgardet/K1(MP)"
     },
     "techniques": {
-        "tech": "nodejs",
-        "tech1": "webdriver.io",
-        "tech2": "git",
-        "tech3": "Azure DevOps",
-        "tech4": "c#",
-        "tech5": "selenium",
-        "tech6": "browserstack",
-        "tech7": "jenkins",
-        "tech8": "etc etc etc buzzwords"
+        "tech00": "nodejs",
+        "tech01": "cypress",
+        "tech02": "playwright",
+        "tech03": "python",
+        "tech04": "webdriver.io",
+        "tech05": "git",
+        "tech06": "Azure DevOps",
+        "tech07": "c#",
+        "tech08": "selenium",
+        "tech09": "browserstack",
+        "tech10": "jenkins",
+        "tech11": "etc etc etc buzzwords"
     }
 }
