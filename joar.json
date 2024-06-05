@@ -1,8 +1,8 @@
 {
     "name": "Joar Ekendahl",
-    "version": "43",
+    "version": "0.43",
     "owner": "Charlotte Wennerberg",
-    "license": "sambo",
+    "license": "fästmö",
     "spawn_count": "0",
     "sibling_count": "0",
     "pet_count": "Två Ragdoll-katter (Fixxxer och Pannkakan) och ett gäng digitala pets i Diablo 3",
@@ -10,7 +10,6 @@
         "field": "SDET",
         "work_passion": "devops mindset",
         "sport": "golf",
-        "sport": "e-sport",
         "gaming": {
             "pc": "Diablo 3, Valheim, Diablo 4, Fallout 4",
             "ps4": "Horizon, Red Dead Redemption 2, Rocket league ...",
@@ -33,13 +32,13 @@
         "summer_house": "Lungsund, Värmland"
     },
     "dependencies": {
-        "nature": "kan låta klyshigt, men att få gå i skogen med en hund och sin bättre hälft... mental recharge #awesome",
+        "nature": "klyshigt, men att få gå i skogen med en hund och sin bättre hälft (eller på en golfbana) == mental recharge #awesome",
         "food": "en favvo är ju en god, mustig chili, eller en riktigt fin 'dagobertare', eller en fräsig kräftstjärtspasta...äter det mesta faktiskt, men helst inte kroppkakor eller 'slemmiga rätter'. älskar koriander.",
         "drink": "vatten är underskattat. dock är ju en blaskig lager svår att motstå!",
         "colleagues": "trevligt folk ==> trevlig miljö",
         "fun": "jag trivs när jag har roligt på jobbet och kan skratta mycket. en stor del av jobbet sker vid 'snack i korridoren' eller 'by the water cooler'",
         "g33k_factor": "älskar Star Wars. kan diskutera khyber-crystals och huruvida det var rätt eller fel av disney att radera halva universat från kanon i timmar.",
-        "music": "allätare, men elektroniskt är nice (vnv nation, estiva, juno reactor...), men så även metal (metallica, five finger death punch, airborne...) och dark country!"
+        "music": "allätare, men elektroniskt är nice (vnv nation, estiva, juno reactor...), men så även metal (metallica, five finger death punch, airborne, bombus...) och dark country!"
     },
     "visionite": {
         "member": "16-mars-2024",
@@ -48,15 +47,15 @@
     },
     "work_current": "QA - Atlas Copco",
     "work_previous": { 
-        "position": "Squeed - Fortum/hiven",
-        "position": "Squeed - Hallon",
-        "position": "Squeed - UC",
-        "position": "Squeed - NetEnt",
-        "position": "Squeed - JCDecaux",
-        "position": "Addq(Prolore) - Skatteverket",
-        "position1": "Thomas Cook / Ving",
-        "position2": "redmind - Thomas Cook / Ving",
-        "position3": "Försvarsmakten - Livgardet/K1(MP)"
+        "position00": "Försvarsmakten - Livgardet/K1(MP) [3y9m]", 
+        "position01": "Redmind - Thomas Cook / Ving [0y6m]",
+        "position02": "Thomas Cook / Ving [6y5m]",
+        "position03": "Addq(Prolore) - Skatteverket [0y5m]",
+        "position04": "If Skadeförsäkring [0y7m]",
+        "position05": "Squeed - JCDecaux [0y3m]",
+        "position06": "Squeed - NetEnt [0y5m]",
+        "position07": "Squeed - UC [3y1m]",
+        "position08": "Squeed - Hallon [0y6m]"
     },
     "techniques": {
         "tech00": "nodejs",
