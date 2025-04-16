@@ -1,11 +1,11 @@
 {
     "name": "Joar Ekendahl",
-    "version": "0.43",
+    "version": "0.44",
     "owner": "Charlotte Wennerberg",
-    "license": "fästmö",
+    "license": "fiancée",
     "spawn_count": "0",
     "sibling_count": "0",
-    "pet_count": "Två Ragdoll-katter (Fixxxer och Pannkakan) och ett gäng digitala pets i Diablo 3",
+    "pet_count": "Two ragdoll cats (Fixxxer & Panko) and a bunch of digital pets in Diablo 3",
     "description": {
         "field": "SDET",
         "work_passion": "devops mindset",
@@ -28,7 +28,7 @@
     },
     "repository": {
         "location": "Sweden/Stockholms_län/Solna/Rudviken",
-        "type": "för liten lägenhet (3:a)",
+        "type": "a too small apartment (3room)",
         "summer_house": "Lungsund, Värmland"
     },
     "dependencies": {
@@ -55,7 +55,8 @@
         "position05": "Squeed - JCDecaux [0y3m]",
         "position06": "Squeed - NetEnt [0y5m]",
         "position07": "Squeed - UC [3y1m]",
-        "position08": "Squeed - Hallon [0y6m]"
+        "position08": "Squeed - Hallon [0y6m]",
+        "position09": "Visionite - AtlasCopco [1y0m]"
     },
     "techniques": {
         "tech00": "nodejs",
@@ -69,6 +70,8 @@
         "tech08": "selenium",
         "tech09": "browserstack",
         "tech10": "jenkins",
-        "tech11": "etc etc etc buzzwords"
+        "tech11": "Kubernetes",
+        "tech12": "Helm",
+        "tech13": "etc etc etc buzzwords"
     }
 }
